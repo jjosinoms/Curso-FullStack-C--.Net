@@ -1,0 +1,15 @@
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.csproj.AssemblyReference.cache
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.AssemblyInfoInputs.cache
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.AssemblyInfo.cs
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.csproj.CoreCompileInputs.cache
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\bin\Debug\net6.0\Exercicio2Aula02.exe
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\bin\Debug\net6.0\Exercicio2Aula02.deps.json
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\bin\Debug\net6.0\Exercicio2Aula02.runtimeconfig.json
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\bin\Debug\net6.0\Exercicio2Aula02.dll
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\bin\Debug\net6.0\Exercicio2Aula02.pdb
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.dll
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\refint\Exercicio2Aula02.dll
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.pdb
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\Exercicio2Aula02.genruntimeconfig.cache
+F:\Coti Informatica\Exercicio2Aula02\Exercicio2Aula02\obj\Debug\net6.0\ref\Exercicio2Aula02.dll

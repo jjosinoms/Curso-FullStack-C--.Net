@@ -1,0 +1,47 @@
+﻿using Exercicio2Aula02.Entities;
+
+var pedido = new Pedido();
+pedido.Cliente = new Cliente();
+pedido.Cliente.Endereco = new Endereco();
+pedido.Id = Guid.NewGuid();
+pedido.Cliente.Id = Guid.NewGuid();
+pedido.Cliente.Endereco.Id = Guid.NewGuid();
+pedido.DataPedido = DateTime.Now;
+pedido.ValorPedido = "R$40,00";
+
+Console.Write("Por favor, insira o nome do Cliente:");
+pedido.Cliente.Nome = Console.ReadLine();
+Console.Write("Por favor, insira o Telefone do Cliente:");
+pedido.Cliente.Telefone = Console.ReadLine();
+Console.Write("Por favor, insira o CPF do Cliente:");
+pedido.Cliente.Cpf = Console.ReadLine();
+Console.Write("Por favor, insira o E-MAIL do Cliente:");
+pedido.Cliente.Email = Console.ReadLine();
+Console.Write("Por favor, insira o Logradouro do Cliente:");
+pedido.Cliente.Endereco.Logradouro = Console.ReadLine();
+Console.Write("Por favor, insira o Complemento do Cliente:");
+pedido.Cliente.Endereco.Complemento = Console.ReadLine();
+Console.Write("Por favor, insira o Bairro do Cliente:");
+pedido.Cliente.Endereco.Bairro = Console.ReadLine();
+Console.Write("Por favor, insira o Cidade do Cliente:");
+pedido.Cliente.Endereco.Cidade = Console.ReadLine();
+Console.Write("Por favor, insira o Estado do Cliente:");
+pedido.Cliente.Endereco.Estado = Console.ReadLine();
+Console.Write("Por favor, insira o CEP do Cliente:");
+pedido.Cliente.Endereco.Cep = Console.ReadLine();
+
+Console.WriteLine($"O ID do PEDIDO: {pedido.Id}");
+Console.WriteLine($"DATA do PEDIDO: {pedido.DataPedido}");
+Console.WriteLine($"O VALOR do PEDIDO: {pedido.ValorPedido}");
+Console.WriteLine($"O ID do CLIENTE: {pedido.Cliente.Id}");
+Console.WriteLine($"O NOME do CLIENTE: {pedido.Cliente.Nome}");
+Console.WriteLine($"O CPF do CLIENTE: {pedido.Cliente.Cpf}");
+Console.WriteLine($"O E-MAIL do CLIENTE: {pedido.Cliente.Email}");
+Console.WriteLine($"O TELEFONE do CLIENTE: {pedido.Cliente.Telefone}");
+Console.WriteLine($"O ID do ENDEREÇO: {pedido.Cliente.Endereco.Id}");
+Console.WriteLine($"O LOGRADOURO do CLIENTE: {pedido.Cliente.Endereco.Logradouro}");
+Console.WriteLine($"O COMPLEMENTO do CLIENTE: {pedido.Cliente.Endereco.Complemento}");
+Console.WriteLine($"O BAIRRO do CLIENTE: {pedido.Cliente.Endereco.Bairro}");
+Console.WriteLine($"O CIDADE do CLIENTE: {pedido.Cliente.Endereco.Cidade}");
+Console.WriteLine($"O ESTADO do CLIENTE: {pedido.Cliente.Endereco.Estado}");
+Console.WriteLine($"O CEP do CLIENTE: {pedido.Cliente.Endereco.Cep}");

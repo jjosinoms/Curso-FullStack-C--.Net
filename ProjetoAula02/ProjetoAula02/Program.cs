@@ -41,9 +41,29 @@ try
     try
     {
         //criando um objeto ( variavel de instancia) para clienteRepository
-        var clienteRepository = new CadastrarFuncionarioRepository();
-        clienteRepository.registrarFuncionario(funcionario);
-        Console.WriteLine("Dados criados com sucesso!");
+        var funcionarioRepository = new CadastrarFuncionarioRepository();
+        Console.WriteLine("Digite (1)JSON - (2)XML - (3) Bloco de notas");
+        var opcao = Console.ReadLine();
+
+        switch (opcao)
+        {
+            case "1":
+                funcionarioRepository.ExportarJson(funcionario);
+                Console.WriteLine("JSON gravado com sucesso!");
+                break;
+            case "2":
+                funcionarioRepository.ExportarXml(funcionario);
+                Console.WriteLine("XML gravado com sucesso!");
+                break;
+            case "3":
+                funcionarioRepository.registrarFuncionario(funcionario);
+                Console.WriteLine("Bloco de notas gravado com sucesso!");
+                break;
+            default:
+                Console.WriteLine("Erro! Arquivo nao foi salvo!");
+                break;
+        }
+
     }
     catch (ArgumentException e)
     {

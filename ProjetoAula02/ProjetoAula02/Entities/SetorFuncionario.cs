@@ -29,7 +29,7 @@ namespace ProjetoAula02.Entities
                 if (string.IsNullOrEmpty(value))
                     throw new ArgumentException("Por favor, é necessário infomar um nome válido.");
                 var regex = new Regex("^[A-Za-zÀ-Üà-ü\\s]{8,100}$");
-                if (regex.IsMatch(value))
+                if (!regex.IsMatch(value))
                     throw new ArgumentException("Por favor, insira o Setor corretamente!");
                 _nome = value;
             } //entrada

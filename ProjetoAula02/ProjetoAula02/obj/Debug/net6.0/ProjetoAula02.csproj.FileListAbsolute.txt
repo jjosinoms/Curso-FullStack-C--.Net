@@ -13,3 +13,5 @@ F:\Coti Informatica\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\refint\ProjetoA
 F:\Coti Informatica\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.pdb
 F:\Coti Informatica\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.genruntimeconfig.cache
 F:\Coti Informatica\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ref\ProjetoAula02.dll
+F:\Coti Informatica\ProjetoAula02\ProjetoAula02\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Coti Informatica\ProjetoAula02\ProjetoAula02\obj\Debug\net6.0\ProjetoAula02.csproj.CopyComplete

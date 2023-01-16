@@ -1,0 +1,17 @@
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.AssemblyReference.cache
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.GeneratedMSBuildEditorConfig.editorconfig
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfoInputs.cache
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.AssemblyInfo.cs
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.CoreCompileInputs.cache
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.exe
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.deps.json
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.runtimeconfig.json
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.dll
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\ProjetoAula04.pdb
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\bin\Debug\net6.0\Newtonsoft.Json.dll
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.csproj.CopyComplete
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.dll
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\refint\ProjetoAula04.dll
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.pdb
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ProjetoAula04.genruntimeconfig.cache
+F:\Coti Informatica\ProjetoAula04\ProjetoAula04\obj\Debug\net6.0\ref\ProjetoAula04.dll
